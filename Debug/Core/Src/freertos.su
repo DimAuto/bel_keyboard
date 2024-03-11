@@ -1,0 +1,2 @@
+../Core/Src/freertos.c:78:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:124:6:EventHandlerTask	16	static
