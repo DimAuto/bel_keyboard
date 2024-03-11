@@ -1,0 +1,6 @@
+.settings
+build
+.cproject
+.mxroject
+.project
+*.ioc
